@@ -4,7 +4,7 @@
 
 <br>
 
-
+<img align='right' src="https://img.freepik.com/vector-gratis/coleccion-pegatinas-ingeniero-informatico-doodle_23-2150699575.jpg?size=626&ext=jpg&ga=GA1.1.1825204781.1697948538&semt=ais" width="290">
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
