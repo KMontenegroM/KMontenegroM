@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karelys Montenegro</h1>
-<h2 align="center"> 🚀 I'm from Buenos Aires 🚀 </h2>
+<h2 align="center"> 🚀 Buenos Aires 🚀 </h2>
 <h3 align="center">Developer Traine🌟.</h3>
 
 <br>
